@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploadervrocess",
+        "uuid": 13744910,
+        "checksum": "hagk1e"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
